@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner dev
 ------------
 
-*🔭 French IT student
-*🌱 New technology enthusiast
+🔭 French IT student  || 
+🌱 New technology enthusiast
+
+
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [xraywrld@proton.me](mailto:xraywrld@proton.me)
