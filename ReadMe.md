@@ -11,7 +11,7 @@ Beginner dev
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [xraywrld@proton.me](mailto:xraywrld@proton.me)
-* 🚀  I'm currently working on [a Discord SMS bot](http://github.com/xraywrld/sms-discord-bot)
+* 🚀  I'm finish to work on [a Discord SMS bot](http://github.com/xraywrld/sms-discord-bot)
 * 🧠  I'm learning Python and JS
 * ⚡  Never stop learning
 
