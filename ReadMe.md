@@ -11,8 +11,7 @@ Beginner dev
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [xraywrld@proton.me](mailto:xraywrld@proton.me)
-* 🚀  I actually work on a Mobile App using Flutter SDK
-* 🧠  I'm learning Dart and JS
+* 🧠  I'm learning JS
 * ⚡  Never stop learning
 
 ### Skills
